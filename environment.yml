@@ -1,0 +1,9 @@
+name: leetcode
+channels:
+  # - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab=3.3.4
+  - ipywidgets=7.7.0
+prefix: /home/dennis/miniconda3/envs/leetcode
